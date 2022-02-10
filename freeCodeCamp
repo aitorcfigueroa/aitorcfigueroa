@@ -1,0 +1,21 @@
+//Sum All Numbers in a Range
+//We'll pass you an array of two numbers. Return the sum of those two numbers plus the sum of all the numbers between them. The lowest number will not always come first.
+
+//For example, sumAll([4,1]) should return 10 because sum of all the numbers between 1 and 4 (both inclusive) is 10.
+
+function sumAll(arr) {
+  let newArr = 0;
+  
+  //Comprobar si el primer array es mayor que el segundo y en función de eso sumar en un orden o en otro.
+  
+  if (arr[0] < arr[1]) {
+    for (let i = arr[0]; i < arr[1] + 1; i++) {
+    newArr += i;
+  }} else {
+    for (let i = arr[0]; i > arr[1] - 1; i--) {
+    newArr += i;
+  }};
+  return newArr;
+}
+
+sumAll([1, 4]);
