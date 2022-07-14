@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dekkvar
 - 👀 I’m interested in learning code and start to work like a developer.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning MERN stack.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
