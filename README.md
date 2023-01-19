@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dekkvar
+- 👋 Hi, I’m @aitorcfigueroa
 - 👀 I’m interested in learning code and start to work like a developer.
 - 🌱 I’m currently working on my own fullstack App.
 <!--- 💞️ I’m looking to collaborate on ...
