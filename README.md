@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @aitorcfigueroa
-- 👀 I’m interested in learning code and start to work like a developer.
-- 🌱 I’m currently working on my own fullstack App.
-<!--- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
+# Hi there, I'm @aitorcfigueroa 👋
 
-<!---
-Dekkvar/Dekkvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## :pencil2: About me
+I am a passionate software developer with a keen interest in technology. With over 7 years of experience as a physical therapist, I have decided to make the leap into the world of technology and pursue my passion for programming.
+
+## :wrench: Skills
+Programming languages: JavaScript, TypeScript, NodeJS, Java.
+
+Frameworks: ReactJS, Angular, NextJS.
+
+Database: MongoDB, postgreSQL.
+
+Tools and technologies: Git, Powershell, VSCode, IntelliJ, Postman.
+
+Soft skills: communication, collaboration, problem-solving, attention to detail.
+
+## :iphone: Contact me
+LinkedIn: [in/aitorcfigueroa/](http://linkedin.com/in/aitorcfigueroa/)
+
+Email: aitorcf@gmail.com
+
+Feel free to reach out to me if you have any questions or would like to collaborate on a project.
