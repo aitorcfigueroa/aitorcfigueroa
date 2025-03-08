@@ -40,6 +40,6 @@ Tools and technologies:
 ## :iphone: Contact me
 LinkedIn: [in/aitorcfigueroa/](http://linkedin.com/in/aitorcfigueroa/)
 
-Email: aitorcf@gmail.com
+Email: aitorcf@ikmail.com
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project.
